@@ -18,3 +18,4 @@
 | :-----------| :----------- | :----------- |
 
 | [Классификация комментариев](https://github.com/MatrosovVladimir/yandex-praktikum-projects/blob/main/classification_of_toxic_comments.ipynb) | Интернет-магазин «Викишоп» запускает новый сервис - пользователи могут редактировать и дополнять описания товаров, как в вики-сообществах. Задача: найти инструмент, который будет искать токсичные комментарии и отправлять их на модерацию | BERT, Pandas, Python, spacy, tf-idf |
+| [Прогнозирование количества заказов такси на следующий час](https://github.com/MatrosovVladimir/yandex-praktikum-projects/blob/main/forecasting_taxi_orders.ipynb) | Компания «Чётенькое такси» собрала исторические данные о заказах такси в аэропортах. Задача: найти модель предсказания количества заказов такси на следующий час | Pandas, Python, Sklearn, lightgbm, catboost, statsmodels |
